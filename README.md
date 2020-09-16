@@ -67,6 +67,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
+## to view different section we could use localhost:3000/firstScreen
+## to view different section we could use localhost:3000/secondScreen
+## to view different section we could use localhost:3000/login
+## to view different section we could use localhost:3000/otp
+
+
 ![](https://github.com/daya2940/tiffina/blob/master/src/assets/Screenshot%20from%202020-09-16%2012-37-36.png)
 ![](https://github.com/daya2940/tiffina/blob/master/src/assets/Screenshot%20from%202020-09-16%2012-37-58.png)
 ![](https://github.com/daya2940/tiffina/blob/master/src/assets/Screenshot%20from%202020-09-16%2012-38-08.png)
